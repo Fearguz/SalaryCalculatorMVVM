@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Wynagrodzeń</string>
+    <string name="employment_contract">Umowa o Pracę</string>
+
+    <string name="taxLevel">Próg podatkowy</string>
+    <string name="gross">Kwota brutto</string>
+    <string name="net">Kwota netto</string>
+    <string name="social_security_fee">ZUS</string>
+    <string name="tax">Zaliczka na podatek</string>
+</resources>
